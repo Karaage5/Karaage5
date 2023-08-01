@@ -14,3 +14,5 @@ You can click the Preview link to take a look at your changes.
 # Kamagai is a programmer!
 # Karaage 5 is a good karaage shop in the world.
 # We like karaage so much.
+
+# This message added by nzm_ort
